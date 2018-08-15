@@ -1,5 +1,5 @@
 # Reversed Chess
-> A reverse engineered* chess implementation where the main goal is to lose. Try to lose! Play [here.](https://jsfiddle.net/qLejxauc/)
+> A reverse engineered* chess implementation where the main goal is to lose. Try to lose! Play [here.](https://jsfiddle.net/qLejxauc/3/)
 
 > A version of this repository can also be found [here (Codepen.io).](https://codepen.io/jishanshaikh4/pen/zLQLQR)
 
