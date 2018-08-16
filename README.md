@@ -1,7 +1,7 @@
 # Reversed Chess
-> A reverse engineered* chess implementation where the main goal is to lose. Try to lose! Play [here.](https://jsfiddle.net/qLejxauc/3/)
+> A reverse engineered* chess implementation where the main goal is to lose. Try to lose! Playable [here (@jsfiddle.com).](https://jsfiddle.net/qLejxauc/3/)
 
-> A version of this repository can also be found [here (Codepen.io).](https://codepen.io/jishanshaikh4/pen/zLQLQR)
+> A version of this repository can also be found [here (Codepen.io/jishanshaikh4/).](https://codepen.io/jishanshaikh4/pen/zLQLQR)
 
 ## Implementation
 The chessboard is implemented from chessboard.js and the main chess ai is implemented from chess.js library. Minimal implementation is inspired from [this post (medium).](https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977).
