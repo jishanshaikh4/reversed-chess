@@ -1,5 +1,4 @@
-/* 
-*   File name: reversed-chess/script.js
+/*  File name: reversed-chess/script.js
 *   Downloaded from @jishanshaikh4/reversed-chess
 */
 
