@@ -1,3 +1,8 @@
+/* 
+*   File name: reversed-chess/script.js
+*   Downloaded from @jishanshaikh4/reversed-chess
+*/
+
 var board, game = new Chess();
 
 var calculateBestMove = function(game){
