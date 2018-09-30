@@ -8,7 +8,7 @@ The chessboard is implemented from chessboard.js and the main chess AI is taken 
 ## Basis
 The basis of game lies in a pseudo random number generation (*random* function in JavaScript), the chess opponent (i.e. computer/ai; the player in black play random moves in attack to player with white pieces. The concept is new, like it?
 
-## Credits to Open Source community
+## Credits
 - [chess.js](https://github.com/jhlywa/chess.js) (An awesome chess ai engine. Really loved it!)
 - [chessboard.js](https://www.chessboardjs.com/) (A minimal implementational library of chess board.)
 - jquery
