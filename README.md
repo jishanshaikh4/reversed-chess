@@ -11,6 +11,6 @@ The basis of game lies in the pseudo random number generation (*random* function
 ## Credits
 - [chess.js](https://github.com/jhlywa/chess.js) (An awesome chess AI engine. Really loved it! Try it.)
 - [chessboard.js](https://www.chessboardjs.com/) (A minimal implementational library of chess board.)
-- jquery
+- jquery.
 - wikimedia (for images of pieces).
 - etc.
