@@ -1,0 +1,4 @@
+- Make suitable for two players offline.
+- Atomic Chess?
+- API Construction.
+- Link PyChess and ChessBoard.js
