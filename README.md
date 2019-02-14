@@ -1,4 +1,4 @@
-# Reversed Chess
+# :trophy: Reversed Chess
 [![Build Status](https://travis-ci.org/Jishanshaikh4/reversed-chess.svg?branch=master)](https://travis-ci.org/Jishanshaikh4/reversed-chess)
 > A reverse engineered* chess implementation where the main goal is to lose; commonly known as 'Anti-chess'. Try to lose! Live playable [here (@jsfiddle.com).](https://jsfiddle.net/qLejxauc/3/). A version of this repository can also be found [here (Codepen.io/jishanshaikh4/).](https://codepen.io/jishanshaikh4/pen/zLQLQR)
 
